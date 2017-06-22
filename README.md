@@ -19,7 +19,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "LwDashboard"
 ```
-![image](https://github.com/guakeliao/LwDashboard/Example/screenshots/QQ20170622-154010-HD.gif)
+![image](https://github.com/guakeliao/LwDashboard/blob/develop/Example/screenshots/QQ20170622-154010-HD.gif)
 
 ## Author
 
