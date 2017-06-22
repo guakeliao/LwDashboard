@@ -1,0 +1,12 @@
+
+use_frameworks!
+
+target 'LwDashboard_Example' do
+  pod 'LwDashboard', :path => '../'
+
+  target 'LwDashboard_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
