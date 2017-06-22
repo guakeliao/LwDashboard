@@ -1,0 +1,6 @@
+framework module LwDashboard {
+  umbrella header "LwDashboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

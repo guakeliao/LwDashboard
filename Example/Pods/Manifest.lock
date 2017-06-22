@@ -1,0 +1,16 @@
+PODS:
+  - LwDashboard (0.1.0)
+
+DEPENDENCIES:
+  - LwDashboard (from `../`)
+
+EXTERNAL SOURCES:
+  LwDashboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LwDashboard: c8eaa4fc5290aafc1c23c976cb299dc13c8062ea
+
+PODFILE CHECKSUM: 92babb0bd99e9c60c74ecfdb9a8cdab8fdaed63d
+
+COCOAPODS: 1.2.0
